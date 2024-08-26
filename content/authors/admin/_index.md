@@ -24,7 +24,7 @@ role: Graduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:Southeast University
+  - name: Southeast University
     url: https://www.seu.edu.cn/
 
 # Social network links
