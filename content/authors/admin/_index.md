@@ -182,4 +182,4 @@ education:
 ---
 ## About Me
 
-Xiaohu Chen is a graduate student of communication and transportation at the Southeast University. His research interests include ntelligent Transportation Systems, Artificial Intelligence , and Pavement Maintenance.
+Xiaohu Chen is a graduate student of communication and transportation at the Southeast University. His research interests include Intelligent Transportation Systems, Artificial Intelligence , and Pavement Maintenance.
